@@ -1,10 +1,15 @@
-# evobot
+# evobot-py
 
-Clementoni Evolution Robot Python Code 
+**Clementoni Evolution Robot Python Code** 
 
-Requirements:
-blueyp
-paho-mqtt
+**Requirements:**
 
-pip install bluepy
-pip install paho-mqtt
+`bluepy`
+
+`paho-mqtt`
+
+**Istallation**
+
+`pip install bluepy`
+
+`pip install paho-mqtt`
