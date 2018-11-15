@@ -8,7 +8,7 @@
 
 `paho-mqtt`
 
-**Istallation**
+**Installation**
 
 `pip install bluepy`
 
